@@ -1,0 +1,24 @@
+{
+  "name": "liferay6.2",
+  "authors": [
+    "(Miguel Ángel Júlvez <info@miguelangeljulvez.com>)"
+  ],
+  "description": "Liferay 6.2 main dependencies",
+  "main": "",
+  "moduleType": [
+    "globals"
+  ],
+  "license": "MIT",
+  "homepage": "http://www.miguelangeljulvez.com",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "liferay-js": "./liferay/everything.js",
+    "liferay-css": "./liferay/main.css"
+  }
+}
