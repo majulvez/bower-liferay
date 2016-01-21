@@ -5,8 +5,8 @@
   ],
   "description": "Liferay main dependencies",
   "main": [
-    "./dist/css/liferay.css",
-    "./dist/js/liferay.js"
+    "./liferay/main.css",
+    "./liferay/everything.js"
   ],
   "moduleType": [
     "globals"
