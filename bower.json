@@ -1,10 +1,13 @@
 {
-  "name": "liferay6.2",
+  "name": "liferay",
   "authors": [
     "(Miguel Ángel Júlvez <info@miguelangeljulvez.com>)"
   ],
-  "description": "Liferay 6.2 main dependencies",
-  "main": "",
+  "description": "Liferay main dependencies",
+  "main": [
+    "./dist/css/liferay.css",
+    "./dist/js/liferay.js"
+  ],
   "moduleType": [
     "globals"
   ],
