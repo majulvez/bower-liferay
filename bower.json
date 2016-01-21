@@ -5,8 +5,8 @@
   ],
   "description": "Liferay main dependencies",
   "main": [
-    "./liferay/main.css",
-    "./liferay/everything.js"
+    "dist/main.css",
+    "dist/everything.js"
   ],
   "moduleType": [
     "globals"
@@ -19,9 +19,5 @@
     "bower_components",
     "test",
     "tests"
-  ],
-  "devDependencies": {
-    "liferay-js": "./liferay/everything.js",
-    "liferay-css": "./liferay/main.css"
-  }
+  ]
 }
