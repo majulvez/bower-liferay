@@ -6,7 +6,13 @@
   "description": "Liferay main dependencies",
   "main": [
     "dist/main.css",
-    "dist/everything.js"
+    "dist/everything.js",
+    "dist/theme-aui.css",
+    "dist/theme-main.css",
+    "dist/theme-main.js",
+    "dist/login-main.css",
+    "dist/notifications-main.css",
+    "dist/notifications-main.js"
   ],
   "moduleType": [
     "globals"
