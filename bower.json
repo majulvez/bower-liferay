@@ -5,10 +5,11 @@
   ],
   "description": "Liferay main dependencies",
   "main": [
+    "dist/aui.css",
     "dist/combo.css",
     "dist/frontend-css-web-main.css",
     "dist/mention.css",
-    "dist/product-menu.css"
+    "dist/product-menu.css",
   ],
   "moduleType": [
     "globals"
