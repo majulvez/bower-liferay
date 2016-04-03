@@ -5,14 +5,10 @@
   ],
   "description": "Liferay main dependencies",
   "main": [
-    "dist/main.css",
-    "dist/everything.js",
-    "dist/theme-aui.css",
-    "dist/theme-main.css",
-    "dist/theme-main.js",
-    "dist/login-main.css",
-    "dist/notifications-main.css",
-    "dist/notifications-main.js"
+    "dist/combo.css",
+    "dist/frontend-css-web-main.css",
+    "dist/mention.css",
+    "dist/product-menu.css"
   ],
   "moduleType": [
     "globals"
