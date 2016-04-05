@@ -6,10 +6,14 @@
   "description": "Liferay main dependencies",
   "main": [
     "dist/aui.css",
-    "dist/combo.css",
-    "dist/frontend-css-web-main.css",
-    "dist/mention.css",
-    "dist/product-menu.css"
+    "dist/combo1.css",
+    "dist/combo2.css",
+    "dist/main1.css",
+    "dist/main2.css",
+    "dist/mentions.css",
+    "dist/other1.css",
+    "dist/other2.cssi",
+    "dist/allNotLogged.css"
   ],
   "moduleType": [
     "globals"
